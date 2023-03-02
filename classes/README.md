@@ -1,8 +1,11 @@
 ## Moduly tříd pro obsluhu LED pásků postavených na čipech WS2812
 
 + ws2812b.py
+
 Převzato bez úprav z https://github.com/benevpi/pico_python_ws2812b
+
 Tímto děkuji za poskytnutí kódu a inspiraci pro moji další činnost.
+
 V mém případě a ve spojení s doposud použitými moduly pracuje bez chyb a nutnosti úprav.
 
 ---
