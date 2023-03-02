@@ -13,6 +13,9 @@ V mém případě a ve spojení s doposud použitými moduly pracuje bez chyb a 
 ## Class modules for operating LED strips built on WS2812 chips
 
 + ws2812b.py
+
 Taken without modification from https://github.com/benevpi/pico_python_ws2812b
+
 I hereby thank you for providing the code and inspiration for my further work.
-In my case and in connection with the modules used so far, it works without errors and without the need for modifications.
+
+* In my case and in connection with the modules used so far, it works without errors and without the need for modifications. *
